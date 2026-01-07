@@ -1,7 +1,0 @@
-{
-  "name": "RC-505 Loop Station Web",
-  "description": "A high-fidelity digital recreation of the RC-505 Loop Station interface, featuring 5 interactive track channels with recording states, volume faders, and authentic matte aesthetics.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
